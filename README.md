@@ -1,4 +1,4 @@
-<h1><u>Introducing Unstructured Parser.......</u></h1>
+<h1><u>Introducing Unstructured Parser -></u></h1>
 
 
 Unstructured data parsing refers to the process of extracting meaningful information from data that lacks a predefined format or organization. This type of data can include text documents, social media posts, images, and videos, which comprise a significant portion of the information generated today—estimated at 80% to 90% of all data collected by organizations
